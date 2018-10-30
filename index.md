@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "wsc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of Sheffield"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Pam Liversidge Building, Design Studio 1, D06, Corner of Broad Lane and Newcastle Street, Sheffield S1 3JD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
