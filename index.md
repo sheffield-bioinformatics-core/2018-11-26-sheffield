@@ -113,6 +113,10 @@ and our administrator may contact you if we need any extra information.</h4>-->
 </p>
 {% endif %}
 
+REGISTRATION
+
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience) to register to the course. There is a registration fee of £60 per-day for students and £80 per-day for staff. Those at The University of Sheffield can use a departmental credit card to pay the fee, which can then be charged back to a particular cost code.
+
 {% comment %}
   SPECIAL REQUIREMENTS
 
@@ -202,9 +206,7 @@ and our administrator may contact you if we need any extra information.</h4>-->
 
 <hr/>
 
-REGISTRATION
 
-Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience) to register to the course. There is a registration fee of £60 per-day for students and £80 per-day for staff. Those at The University of Sheffield can use a departmental credit card to pay the fee, which can then be charged back to a particular cost code.
 
 {% comment %}
   SCHEDULE
